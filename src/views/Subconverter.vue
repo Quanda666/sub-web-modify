@@ -332,7 +332,6 @@ export default {
           "自动判断客户端": "auto",
         },
         shortTypes: {
-          "默认短链": "https://oooo.vvvv.ee/short",
           "v1.mk": "https://v1.mk/short",
           "d1.mk": "https://d1.mk/short",
           "dlj.tf": "https://dlj.tf/short",
@@ -1311,4 +1310,5 @@ export default {
   }
 };
 </script>
+
 
