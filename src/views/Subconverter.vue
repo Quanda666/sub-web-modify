@@ -338,22 +338,22 @@ export default {
           "suo.yt": "https://suo.yt/short",
         },
         customBackend: {
+          "本站提供": "https://subapi.110995.xyz",
           "CM负载均衡后端【vless reality+hy1+hy2】": "https://subapi.cmliussss.net",
           "CM应急备用后端【vless reality+hy1+hy2】": "https://subapi.fxxk.dedyn.io",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://url.v1.mk",
           "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk",
           nameless13提供: "https://www.nameless13.com",
           subconverter作者提供: "https://sub.xeton.dev",
-          "本站提供": "https://sub.xxvxx.ggff.net",
         },
         backendOptions: [
+          { value: "https://subapi.110995.xyz" },
           { value: "https://subapi.cmliussss.net" },
           { value: "https://subapi.fxxk.dedyn.io" },
           { value: "https://url.v1.mk" },
           { value: "https://sub.d1.mk" },
           { value: "https://www.nameless13.com" },
           { value: "https://sub.xeton.dev" },
-          { value: "https://sub.xxvxx.ggff.net" },
         ],
         remoteConfig: [
           {
@@ -1310,5 +1310,6 @@ export default {
   }
 };
 </script>
+
 
 
