@@ -338,7 +338,7 @@ export default {
           "suo.yt": "https://suo.yt/short",
         },
         customBackend: {
-          "本站提供": "https://subapi.110995.xyz",
+          "本站专属后端": "https://subapi.110995.xyz",
           "CM负载均衡后端【vless reality+hy1+hy2】": "https://subapi.cmliussss.net",
           "CM应急备用后端【vless reality+hy1+hy2】": "https://subapi.fxxk.dedyn.io",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://url.v1.mk",
@@ -1310,6 +1310,7 @@ export default {
   }
 };
 </script>
+
 
 
 
